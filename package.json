@@ -1,0 +1,34 @@
+{
+  "name": "tech-radar",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Visualization of our technogical choices",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync . -w",
+    "parse": "node parse_csv_to_json.js",
+    "lint": "npm run lint:js && npm run lint:html",
+    "lint:js": "eslint *.js",
+    "lint:html": "htmllint docs/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunsergdev/tech-radar.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunsergdev/tech-radar/issues"
+  },
+  "homepage": "https://github.com/sunsergdev/tech-radar#readme",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "eslint": "^8.42.0",
+    "htmllint-cli": "^0.0.7",
+    "prettier": "3.0.3",
+    "socket.io": "^4.6.2"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}

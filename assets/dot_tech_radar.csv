@@ -1,0 +1,37 @@
+label,ring,quadrant,link,active,moved
+Python,Adopt,Languages and Frameworks,https://www.python.org/,TRUE,0
+Django,Adopt,Languages and Frameworks,https://www.djangoproject.com/,TRUE,0
+Javascript,Adopt,Languages and Frameworks,https://www.javascript.com/,TRUE,0
+Typescript,Adopt,Languages and Frameworks,https://www.typescriptlang.org/,TRUE,0
+Kotlin,Adopt,Languages and Frameworks,https://kotlinlang.org/,TRUE,0
+React,Adopt,Languages and Frameworks,https://react.dev/,TRUE,0
+Android,Adopt,Languages and Frameworks,https://developer.android.com/,TRUE,0
+Go,Hold,Languages and Frameworks,https://go.dev/,TRUE,0
+Ruby on Rails,Hold,Languages and Frameworks,https://rubyonrails.org/,TRUE,0
+Rust,Hold,Languages and Frameworks,https://www.rust-lang.org/,TRUE,0
+Pytorch,Adopt,Languages and Frameworks,https://pytorch.org/,TRUE,0
+Tensorflow,Adopt,Languages and Frameworks,https://www.tensorflow.org/,TRUE,0
+MySQL,Trial,Datastores and Data Management,https://www.mysql.com/,TRUE,0
+PostgresSQL,Trial,Datastores and Data Management,https://www.postgresql.org/,TRUE,0
+AWS SNS,Trial,Infrastructure,https://aws.amazon.com/sns/,TRUE,0
+Novu,Assess,Infrastructure,https://novu.co/,TRUE,0
+Firestore,Adopt,Datastores and Data Management,https://firebase.google.com/docs/firestore,TRUE,0
+AWS EC2,Trial,Infrastructure,https://aws.amazon.com/ec2/?nc2=h_ql_prod_cp_ec2,TRUE,0
+AWS Containers,Assess,Infrastructure,https://aws.amazon.com/ecs/?nc2=h_ql_prod_ct_ecs,TRUE,0
+AWS Lambda,Assess,Infrastructure,https://aws.amazon.com/lambda/?nc2=h_ql_prod_fs_lbd,TRUE,0
+Cloud Functions,Hold,Infrastructure,https://cloud.google.com/functions/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-SKWS-all-lv-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_634197478788-ADGP_Hybrid+%7C+SKWS+-+EXA+%7C+Txt+~+Serverless+Computing_Cloud+Functions_cloud_main-KWID_43700074189143299-kwd-66359843554&userloc_9302611-network_g&utm_term=KW_cloud+functions&gad_source=1&gclid=CjwKCAjwysipBhBXEiwApJOcu5NIY06bnJTwYRxSHYSLcaNwtFN-yW7R1D5AgS-GUvgGDV_-dFkKCBoC9xUQAvD_BwE&gclsrc=aw.ds&hl=en,TRUE,0
+Apache,Assess,Infrastructure,https://httpd.apache.org/,TRUE,0
+Nginx,Assess,Infrastructure,https://www.nginx.com/,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
+,,,,TRUE,0
