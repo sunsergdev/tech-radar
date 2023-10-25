@@ -256,7 +256,10 @@ function radar_visualization(config) {
         .attr("text-anchor", "middle")
         .style("fill", config.rings[i].color)
         .style("opacity", 0.35)
-        .style("font-family", "Poppins, Arial, Helvetica")
+        .style(
+          "font-family",
+          "-apple-system,BlinkMacSystemFont,segoe ui,roboto,helvetica,arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol"
+        )
         .style("font-size", "36px")
         .style("font-weight", "bold")
         .style("pointer-events", "none")
@@ -283,7 +286,10 @@ function radar_visualization(config) {
       .append("text")
       .attr("transform", translate(title_offset.x, title_offset.y))
       .text(config.title)
-      .style("font-family", "Poppins, Arial, Helvetica")
+      .style(
+        "font-family",
+        "-apple-system,BlinkMacSystemFont,segoe ui,roboto,helvetica,arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol"
+      )
       .style("font-size", "30px")
       .style("font-weight", "600");
 
@@ -293,7 +299,10 @@ function radar_visualization(config) {
       .attr("transform", translate(footer_offset.x, footer_offset.y))
       .text("▲ moved up     ▼ moved down")
       .attr("xml:space", "preserve")
-      .style("font-family", "Poppins, Arial, Helvetica")
+      .style(
+        "font-family",
+        "-apple-system,BlinkMacSystemFont,segoe ui,roboto,helvetica,arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol"
+      )
       .style("font-size", "14px");
 
     // legend
@@ -306,7 +315,10 @@ function radar_visualization(config) {
           translate(legend_offset[quadrant].x, legend_offset[quadrant].y - 45)
         )
         .text(config.quadrants[quadrant].name)
-        .style("font-family", "Poppins, Arial, Helvetica")
+        .style(
+          "font-family",
+          "-apple-system,BlinkMacSystemFont,segoe ui,roboto,helvetica,arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol"
+        )
         .style("font-size", "22px")
         .style("font-weight", "500");
       for (var ring = 0; ring < 4; ring++) {
@@ -314,7 +326,10 @@ function radar_visualization(config) {
           .append("text")
           .attr("transform", legend_transform(quadrant, ring))
           .text(config.rings[ring].name)
-          .style("font-family", "Poppins")
+          .style(
+            "font-family",
+            "-apple-system,BlinkMacSystemFont,segoe ui,roboto,helvetica,arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol"
+          )
           .style("font-size", "14px")
           .style("font-weight", "bold")
           .style("fill", config.rings[ring].color);
@@ -341,7 +356,10 @@ function radar_visualization(config) {
           .text(function (d, i) {
             return d.id + ". " + d.label;
           })
-          .style("font-family", "Poppins, Arial, Helvetica")
+          .style(
+            "font-family",
+            "-apple-system,BlinkMacSystemFont,segoe ui,roboto,helvetica,arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol"
+          )
           .style("font-size", "13px")
           .on("mouseover", function (d) {
             showBubble(d);
@@ -370,7 +388,10 @@ function radar_visualization(config) {
   bubble.append("rect").attr("rx", 4).attr("ry", 4).style("fill", "#333");
   bubble
     .append("text")
-    .style("font-family", "sans-serif")
+    .style(
+      "font-family",
+      "-apple-system,BlinkMacSystemFont,segoe ui,roboto,helvetica,arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol"
+    )
     .style("font-size", "16px")
     .style("fill", "#fff");
   bubble.append("path").attr("d", "M 0,0 10,0 5,8 z").style("fill", "#333");
@@ -469,7 +490,10 @@ function radar_visualization(config) {
         .attr("y", 3)
         .attr("text-anchor", "middle")
         .style("fill", "#fff")
-        .style("font-family", "Poppins, Arial, Helvetica")
+        .style(
+          "font-family",
+          "-apple-system,BlinkMacSystemFont,segoe ui,roboto,helvetica,arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol"
+        )
         .style("font-size", function (d) {
           return blip_text.length > 2 ? "8px" : "9px";
         })
