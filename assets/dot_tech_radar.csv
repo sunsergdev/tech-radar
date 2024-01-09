@@ -11,8 +11,8 @@ Ruby on Rails,Hold,Languages and Frameworks,https://rubyonrails.org/,TRUE,0
 Rust,Hold,Languages and Frameworks,https://www.rust-lang.org/,TRUE,0
 Pytorch,Adopt,Languages and Frameworks,https://pytorch.org/,TRUE,0
 Tensorflow,Adopt,Languages and Frameworks,https://www.tensorflow.org/,TRUE,0
-MySQL,Trial,Datastores and Data Management,https://www.mysql.com/,TRUE,0
-PostgresSQL,Trial,Datastores and Data Management,https://www.postgresql.org/,TRUE,0
+MySQL,Hold,Datastores and Data Management,https://www.mysql.com/,TRUE,0
+PostgresSQL,Adopt,Datastores and Data Management,https://www.postgresql.org/,TRUE,0
 AWS SNS,Trial,Infrastructure,https://aws.amazon.com/sns/,TRUE,0
 Novu,Assess,Infrastructure,https://novu.co/,TRUE,0
 Firestore,Adopt,Datastores and Data Management,https://firebase.google.com/docs/firestore,TRUE,0
