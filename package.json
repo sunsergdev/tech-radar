@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/sunsergdev/tech-radar#readme",
   "devDependencies": {
-    "browser-sync": "^2.29.3",
+    "browser-sync": "^3.0.2",
     "eslint": "^8.42.0",
     "htmllint-cli": "^0.0.7",
     "prettier": "3.0.3",
