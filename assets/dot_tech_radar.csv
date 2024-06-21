@@ -16,6 +16,7 @@ PostgresSQL,Adopt,Datastores and Data Management,https://www.postgresql.org/,TRU
 AWS SNS,Trial,Infrastructure,https://aws.amazon.com/sns/,TRUE,0
 Novu,Assess,Infrastructure,https://novu.co/,TRUE,0
 Firestore,Hold,Datastores and Data Management,https://firebase.google.com/docs/firestore,TRUE,-1
+Sentry,Adopt,Infrastructure,https://sentry.io/,TRUE,0
 Azure Container Apps,Adopt,Infrastructure,https://azure.microsoft.com/en-in/products/container-apps,TRUE,0
 Azure Blob Storage,Adopt,Datastores and Data Management,https://azure.microsoft.com/en-in/products/storage/blobs,TRUE,0
 AWS EC2,Hold,Infrastructure,https://aws.amazon.com/ec2/?nc2=h_ql_prod_cp_ec2,TRUE,-1
@@ -25,7 +26,6 @@ Cloud Functions,Hold,Infrastructure,https://cloud.google.com/functions,TRUE,0
 Apache,Hold,Infrastructure,https://httpd.apache.org/,TRUE,0
 Nginx,Hold,Infrastructure,https://www.nginx.com/,TRUE,0
 Celery,Adopt,Techniques,https://docs.celeryq.dev/en/stable/,TRUE,0
-Sentry,Adopt,Infrastructure,https://sentry.io/,TRUE,0
 ,,,,TRUE,0
 ,,,,TRUE,0
 ,,,,TRUE,0
