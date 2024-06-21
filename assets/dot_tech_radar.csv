@@ -15,13 +15,17 @@ MySQL,Hold,Datastores and Data Management,https://www.mysql.com/,TRUE,0
 PostgresSQL,Adopt,Datastores and Data Management,https://www.postgresql.org/,TRUE,0
 AWS SNS,Trial,Infrastructure,https://aws.amazon.com/sns/,TRUE,0
 Novu,Assess,Infrastructure,https://novu.co/,TRUE,0
-Firestore,Adopt,Datastores and Data Management,https://firebase.google.com/docs/firestore,TRUE,0
-AWS EC2,Trial,Infrastructure,https://aws.amazon.com/ec2/?nc2=h_ql_prod_cp_ec2,TRUE,0
-AWS Containers,Assess,Infrastructure,https://aws.amazon.com/ecs/?nc2=h_ql_prod_ct_ecs,TRUE,0
-AWS Lambda,Assess,Infrastructure,https://aws.amazon.com/lambda/?nc2=h_ql_prod_fs_lbd,TRUE,0
+Firestore,Hold,Datastores and Data Management,https://firebase.google.com/docs/firestore,TRUE,-1
+Azure Container Apps,Adopt,Infrastructure,https://azure.microsoft.com/en-in/products/container-apps,TRUE,0
+Azure Blob Storage,Adopt,Datastores and Data Management,https://azure.microsoft.com/en-in/products/storage/blobs,TRUE,0
+AWS EC2,Hold,Infrastructure,https://aws.amazon.com/ec2/?nc2=h_ql_prod_cp_ec2,TRUE,-1
+AWS Containers,Hold,Infrastructure,https://aws.amazon.com/ecs/?nc2=h_ql_prod_ct_ecs,TRUE,-1
+AWS Lambda,Hold,Infrastructure,https://aws.amazon.com/lambda/?nc2=h_ql_prod_fs_lbd,TRUE,-1
 Cloud Functions,Hold,Infrastructure,https://cloud.google.com/functions/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-SKWS-all-lv-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_634197478788-ADGP_Hybrid+%7C+SKWS+-+EXA+%7C+Txt+~+Serverless+Computing_Cloud+Functions_cloud_main-KWID_43700074189143299-kwd-66359843554&userloc_9302611-network_g&utm_term=KW_cloud+functions&gad_source=1&gclid=CjwKCAjwysipBhBXEiwApJOcu5NIY06bnJTwYRxSHYSLcaNwtFN-yW7R1D5AgS-GUvgGDV_-dFkKCBoC9xUQAvD_BwE&gclsrc=aw.ds&hl=en,TRUE,0
-Apache,Assess,Infrastructure,https://httpd.apache.org/,TRUE,0
-Nginx,Assess,Infrastructure,https://www.nginx.com/,TRUE,0
+Apache,Hold,Infrastructure,https://httpd.apache.org/,TRUE,0
+Nginx,Hold,Infrastructure,https://www.nginx.com/,TRUE,0
+Celery,Adopt,Techniques,https://docs.celeryq.dev/en/stable/,TRUE,0
+Sentry,Adopt,Infrastructure,https://sentry.io/,TRUE,0
 ,,,,TRUE,0
 ,,,,TRUE,0
 ,,,,TRUE,0
