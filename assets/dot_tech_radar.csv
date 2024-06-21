@@ -21,7 +21,7 @@ Azure Blob Storage,Adopt,Datastores and Data Management,https://azure.microsoft.
 AWS EC2,Hold,Infrastructure,https://aws.amazon.com/ec2/?nc2=h_ql_prod_cp_ec2,TRUE,-1
 AWS Containers,Hold,Infrastructure,https://aws.amazon.com/ecs/?nc2=h_ql_prod_ct_ecs,TRUE,-1
 AWS Lambda,Hold,Infrastructure,https://aws.amazon.com/lambda/?nc2=h_ql_prod_fs_lbd,TRUE,-1
-Cloud Functions,Hold,Infrastructure,https://cloud.google.com/functions/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-SKWS-all-lv-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_634197478788-ADGP_Hybrid+%7C+SKWS+-+EXA+%7C+Txt+~+Serverless+Computing_Cloud+Functions_cloud_main-KWID_43700074189143299-kwd-66359843554&userloc_9302611-network_g&utm_term=KW_cloud+functions&gad_source=1&gclid=CjwKCAjwysipBhBXEiwApJOcu5NIY06bnJTwYRxSHYSLcaNwtFN-yW7R1D5AgS-GUvgGDV_-dFkKCBoC9xUQAvD_BwE&gclsrc=aw.ds&hl=en,TRUE,0
+Cloud Functions,Hold,Infrastructure,https://cloud.google.com/functions,TRUE,0
 Apache,Hold,Infrastructure,https://httpd.apache.org/,TRUE,0
 Nginx,Hold,Infrastructure,https://www.nginx.com/,TRUE,0
 Celery,Adopt,Techniques,https://docs.celeryq.dev/en/stable/,TRUE,0
